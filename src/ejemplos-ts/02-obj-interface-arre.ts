@@ -1,10 +1,10 @@
-//Definición de un objeto
-//Definición de interface
+// //Definición de un objeto
+// //Definición de interface
 
 interface Alumno{
-    matricula:number;
-    nombre:string;
-    email:string;
+matricula:number;
+nombre:string;
+email:string;
 }
 
 //objeto ts
